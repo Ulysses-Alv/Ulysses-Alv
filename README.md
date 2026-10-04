@@ -43,9 +43,7 @@ Based in **Argentina**. Focused on **Unity, C#, XR/VR, and developer tooling** â
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-9C8313?style=flat-square&amp;logo=javascript&amp;logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-237B98?style=flat-square&amp;logo=react&amp;logoColor=white" />
-<img alt="Three.js" src="https://img.shields.io/badge/Three.js-222C37?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" />
 <img alt="Electron" src="https://img.shields.io/badge/Electron-397586?style=flat-square&amp;logo=electron&amp;logoColor=white" />
-<img alt="Tauri" src="https://img.shields.io/badge/Tauri-397586?style=flat-square&amp;logo=tauri&amp;logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-C7542D?style=flat-square&amp;logo=html5&amp;logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-316CB3?style=flat-square&amp;logo=css&amp;logoColor=white" />
 </p>
@@ -53,8 +51,6 @@ Based in **Argentina**. Focused on **Unity, C#, XR/VR, and developer tooling** â
 ### Languages & data
 
 <p>
-<img alt="Go" src="https://img.shields.io/badge/Go-268AA1?style=flat-square&amp;logo=go&amp;logoColor=white" />
-<img alt="Rust" src="https://img.shields.io/badge/Rust-935A3E?style=flat-square&amp;logo=rust&amp;logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-276582?style=flat-square&amp;logo=sqlite&amp;logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-D9573B?style=flat-square&amp;logo=git&amp;logoColor=white" />
