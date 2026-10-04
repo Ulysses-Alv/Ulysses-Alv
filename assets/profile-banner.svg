@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">VLYS — Ulises Alvarenga</title>
+<desc id="desc">Software Engineer and Unity XR Developer. Unity, XR and developer tooling. vlys.com.ar.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#182A45"/><stop offset="1" stop-color="#111B2D"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#344965" stroke-width="0.6" opacity="0.32"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#344965"/>
+<rect x="42" y="45" width="4" height="210" rx="2" fill="#8CAFF1"/>
+<g font-family="Consolas, 'Liberation Mono', monospace">
+<text x="72" y="72" fill="#8CAFF1" font-size="17" letter-spacing="3">// VLYS · BUILDING SYSTEMS &amp; EXPERIENCES</text>
+<text x="69" y="143" fill="#F0EEE9" font-family="Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Ulises Alvarenga</text>
+<text x="72" y="186" fill="#BAC6D8" font-size="23">Software Engineer · Unity / XR Developer</text>
+<text x="72" y="243" fill="#8CAFF1" font-size="17">UNITY / XR / DEVELOPER TOOLING</text>
+<text x="1128" y="243" text-anchor="end" fill="#BAC6D8" font-size="17">vlys.com.ar ↗</text>
+</g>
+<g transform="translate(1010 112)" fill="none" stroke="#8CAFF1" stroke-width="3" opacity="0.65">
+<path d="M-36-30 -66 0 -36 30 M36-30 66 0 36 30 M12-40 -12 40"/>
+</g>
+</svg>
